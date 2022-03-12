@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By LannOfc.
+   * Contact Me on wa.me/6285803583481
+   * Follow https://github.com/ERLANRAHMAT
 */
 
 require('./config')
@@ -26,7 +26,7 @@ async function startHisoka() {
     const hisoka = hisokaConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Hisoka Multi Device','Safari','1.0.0'],
+        browser: ['Betq Multi Device','Safari','1.0.0'],
         auth: state,
         version
     })
