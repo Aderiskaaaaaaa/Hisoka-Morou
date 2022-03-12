@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# Lann
 Script WhatsApp Bot Multi Device
 
 ## NOTE
